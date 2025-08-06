@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://pbs.twimg.com/media/GiVGb_HXMAAsGC2.jpg"  />
+<img align="right" height="200" src="https://github.com/LipeSoaress/LipeSoaress/blob/main/assets/M%C3%ADdia.png"  />
 
 ###
 
