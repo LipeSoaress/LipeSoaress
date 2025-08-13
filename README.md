@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Felipe 👋</h1>
+<h1>👋 Olá, eu sou o Felipe</h1>
 
 ###
 
@@ -63,6 +63,15 @@
 
 ###
 
+---
+
+### 
+
+<h2 align="left">💭 Reflexão</h2>
+
+> "Programar não é apenas escrever código, mas traduzir ideias em realidade. Cada projeto é um capítulo de uma história em constante evolução, onde erros se tornam lições, desafios se transformam em oportunidades e a curiosidade é o combustível que mantém a jornada viva."
+
+###
 ---
 
 <img src="https://github.com/LipeSoaress/LipeSoaress/blob/main/assets/github(2).gif" />
