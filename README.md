@@ -1,4 +1,4 @@
-<img src="https://github.com/LipeSoaress/LipeSoaress/blob/main/assets/github(14.2).gif" />
+<img src="https://github.com/LipeSoaress/LipeSoaress/blob/main/assets/github(16).gif" />
 
 
 <div>
@@ -85,7 +85,7 @@
 
 <img src="https://github.com/LipeSoaress/LipeSoaress/blob/main/assets/github(5).gif" />
 
-<img src="https://github.com/LipeSoaress/LipeSoaress/blob/main/assets/github(13.2).gif" />
+<img src="https://github.com/LipeSoaress/LipeSoaress/blob/main/assets/github(15).gif" />
 
 
 
