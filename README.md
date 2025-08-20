@@ -1,9 +1,9 @@
-<img src="https://github.com/LipeSoaress/LipeSoaress/blob/main/assets/github(13).gif" />
+<img src="https://github.com/LipeSoaress/LipeSoaress/blob/main/assets/github(17).gif" />
  
  
 <div>
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=8c52ff&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Felipe+Soares;Desenvolvedor+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=ff914d&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Felipe+Soares;Desenvolvedor+Web" alt="Typing SVG" />
 </a>
 </div>
  
@@ -87,9 +87,9 @@
 
 ---
  
-<img src="https://github.com/LipeSoaress/LipeSoaress/blob/main/assets/github(2).gif" />
+<img src="https://github.com/LipeSoaress/LipeSoaress/blob/main/assets/github(10).gif" />
  
-<img src="https://github.com/LipeSoaress/LipeSoaress/blob/main/assets/github(14).gif" />
+<img src="https://github.com/LipeSoaress/LipeSoaress/blob/main/assets/github(18).gif" />
  
  
  
